@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B00D3CA7-BC1F-727A-CAFD-8DF9CD13C563}") = "2DLightingTest", "Assembly-CSharp-firstpass.csproj", "{2EA759D8-CBA9-1F53-C354-8AB308C5A691}"
+EndProject
+Project("{B00D3CA7-BC1F-727A-CAFD-8DF9CD13C563}") = "2DLightingTest", "Assembly-CSharp.csproj", "{4D66648D-C7D0-4A74-373E-43426212809D}"
+EndProject
+Project("{B00D3CA7-BC1F-727A-CAFD-8DF9CD13C563}") = "2DLightingTest", "Assembly-CSharp-Editor.csproj", "{3A3B8C23-8B3C-9B2E-5D47-330D4CC72F4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA759D8-CBA9-1F53-C354-8AB308C5A691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA759D8-CBA9-1F53-C354-8AB308C5A691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA759D8-CBA9-1F53-C354-8AB308C5A691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA759D8-CBA9-1F53-C354-8AB308C5A691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D66648D-C7D0-4A74-373E-43426212809D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D66648D-C7D0-4A74-373E-43426212809D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D66648D-C7D0-4A74-373E-43426212809D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D66648D-C7D0-4A74-373E-43426212809D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3B8C23-8B3C-9B2E-5D47-330D4CC72F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3B8C23-8B3C-9B2E-5D47-330D4CC72F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3B8C23-8B3C-9B2E-5D47-330D4CC72F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3B8C23-8B3C-9B2E-5D47-330D4CC72F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
